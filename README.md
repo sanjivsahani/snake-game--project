@@ -1,2 +1,2 @@
-# snake-game--project
-snake game is based on a java script 
+# snake-mania-
+This is the java script based game project , 
